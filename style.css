@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/2641074.gif");
+    background-position: center;
+    font-family: Arial;
+    color: white;
+}
+input{
+    size: 33px;
+    background: transparent;
+    color: white;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 5;
+}
+button{
+    border-color: white;
+    border-width: 5;
+    background: transparent;
+     border-radius: 20px;
+}
